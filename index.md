@@ -1,3 +1,9 @@
+<script>
+if (!navigator.language.startsWith('zh')) {
+  window.location.href = '/fodlog-privacy/en';
+}
+</script>
+
 # 食记社 隐私政策                                                             
                                                                                 
   **最后更新日期：2026年1月29日**                                               
