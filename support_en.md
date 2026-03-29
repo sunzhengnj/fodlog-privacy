@@ -1,9 +1,9 @@
 ---
 layout: default
-title: FoodLog - Help & Support
+title: FoLog - Help & Support
 ---
 
-# FoodLog - Help & Support
+# FoLog - Help & Support
 
 ## Frequently Asked Questions
 
@@ -25,4 +25,4 @@ If you encounter any issues, please contact us via:
 
 We will respond to your inquiry within 24 hours.
 
-© 2026 FoodLog
+© 2026 FoLog
