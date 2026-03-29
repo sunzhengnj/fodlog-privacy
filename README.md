@@ -1,2 +1,2 @@
-# fodlog-privacy
+# folog-privacy
 食记社隐私政策
